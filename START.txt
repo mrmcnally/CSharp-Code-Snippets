@@ -1,0 +1,12 @@
+START
+GET payRate
+GET numberOfHoursWorked
+CALCULATE overtimeHours = numberOfHoursWorked - 20
+IF numberOfHoursWorked > 20
+    CALCULATE totalWage = overtimeHours * (payRate * 1.5)
+    CALCULATE totalWage = totalWage + (20 * payRate)
+ELSE 
+    CALCULATE totalWage = numberOfHoursWorked * payRate
+PRINT totalWage
+END
+
