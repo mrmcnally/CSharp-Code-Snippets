@@ -10,8 +10,8 @@ Presentations for each of the below topics are available on request
 3 - User input
 4 - Repetition
 5 - Arrays
-6 - OOP principles
-.
+6 - Methods
+8 - OOP 
 .
 . More coming
 
