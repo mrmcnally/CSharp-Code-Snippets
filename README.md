@@ -11,7 +11,9 @@ Presentations for each of the below topics are available on request
 4 - Repetition
 5 - Arrays
 6 - Methods
-8 - OOP 
+8 - OOP 1
+9 - OOP 2
+10 - Exception Handling
 .
 . More coming
 
