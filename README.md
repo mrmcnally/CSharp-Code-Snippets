@@ -3,7 +3,7 @@ This repo contains C# code snippets for CCEA A-Level Software Systems Developmen
 https://ccea.org.uk/post-16/gce/subjects/gce-software-systems-development-2016
 
 
-Presentations for each of the below topics are available on request
+Presentation and video for each of the below topics are available on request
 
 1 - Introduction to C#
 2 - Selection statements
