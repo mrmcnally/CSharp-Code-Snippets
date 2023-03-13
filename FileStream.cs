@@ -1,7 +1,7 @@
 /* FileStream and StreamWriter sample code */
 
 
-//ensure that System.IO is declared at the top of the document
+//ensure that System.IO directive is declared at the top of the document
 using System.IO;
 
 /*
