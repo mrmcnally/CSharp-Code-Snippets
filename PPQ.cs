@@ -1,3 +1,4 @@
+//Class to represent the common attributes of a car
 class Car
 {
     private String make; // maximum 8 chars
